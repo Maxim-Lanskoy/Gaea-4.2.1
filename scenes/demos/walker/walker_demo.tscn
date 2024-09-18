@@ -85,7 +85,7 @@ layer = 1
 
 [sub_resource type="Resource" id="Resource_kt7cj"]
 script = ExtResource("6_q2gp2")
-rules = Array[Resource("res://addons/gaea/modifiers/rules/rule.gd")]([SubResource("Resource_51jty"), SubResource("Resource_pjm0l"), SubResource("Resource_eofhu")])
+rules = Array[Resource("res://addons/gaea/modifiers/conditions/condition.gd")]([SubResource("Resource_51jty"), SubResource("Resource_pjm0l"), SubResource("Resource_eofhu")])
 tile = SubResource("Resource_smsff")
 salt = 134178497321
 enabled = true
